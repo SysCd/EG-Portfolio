@@ -16,11 +16,11 @@ import AntLogo from "./Images/antdesign.svg";
 const projects = [
   {
     id: 1,
-    title: "Cloud DevOps Lab – AWS Infrastructure Automation",
+    title: "Backend Development Project",
     description:
-      "A comprehensive cloud project automating infrastructure on AWS using Terraform, Docker, Kubernetes (EKS), GitHub Actions, and monitoring with Prometheus & Grafana. Includes secure IAM roles, VPC setup, CI/CD pipelines, and cost optimization for a scalable, high-performance environment.",
-    category: "Cloud & DevOps",
-    date: "2023 – Feb 2025",
+      "Currently developing a backend application using Java and Spring Boot, focusing on learning key backend concepts such as REST API design, data persistence, and service architecture.",
+    category: "Software Engineering",
+    date: "Oct 2025 – Present",
   },
 ];
 
@@ -46,7 +46,7 @@ function App() {
           <img src={HTMLLogo} alt="HTML" title="HTML" />
           <img src={AntLogo} alt="ANT" title="ANT Design" />
         </div>
-        <p>&copy; Erik Tokar Portfolio</p>
+        <p>&copy; Erik Gombar Portfolio</p>
       </footer>
     </div>
   );

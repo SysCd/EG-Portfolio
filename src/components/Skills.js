@@ -3,45 +3,39 @@ function MySkills() {
     <div>
       <section id="skills">
         <h2>Skills</h2>
-
+        <h3>Backend Development</h3>
+        <p>
+          Java, Spring Boot, RESTful APIs, Maven, Object-Oriented Design,
+          Software Architecture
+        </p>
+        <h3>Development Practices</h3>
+        <p>
+          Test-Driven Development (TDD), CI/CD (GitHub Actions), Agile
+          Methodologies, Code Review, Technical Documentation
+        </p>
         <h3>Cloud & DevOps</h3>
         <p>
-          AWS (EC2, IAM, VPC, Lambda), Azure (VMs, Functions), Terraform,
-          Kubernetes, Docker
+          AWS (EC2, VPC, IAM), Terraform, Docker, Kubernetes (basics), Cloud
+          Deployment Workflows
         </p>
-
+        <h3>Databases</h3>
+        <p>SQL, Database Design, Schema Migrations, Data Aggregation</p>
         <h3>Infrastructure & Systems</h3>
-        <p>Windows Server, Linux (Red Hat), VMware ESXi, Hyper-V</p>
-
-        <h3>Networking & Security</h3>
         <p>
-          VLANs, VPNs, Fortinet firewalls, routing (Juniper, Aruba), IAM, RBAC
+          Linux (RHEL/Ubuntu), Windows Server, VMware ESXi, System
+          Administration
         </p>
-
-        <h3>Automation & Deployment</h3>
-        <p>Ansible, CI/CD (GitHub Actions)</p>
-
+        <h3>Scripting & Automation</h3>
+        <p>Bash, PowerShell, Automation Pipelines</p>
         <h3>Monitoring & Performance</h3>
+        <p>Prometheus, Grafana, Application Metrics, System Optimization</p>
+        <h3>Professional Attributes</h3>
         <p>
-          Prometheus, Grafana, AWS CloudWatch, system patching, incident
-          response
+          Root-Cause Analysis, First-Principles Reasoning, Persistence, Logical
+          Problem Solving
         </p>
-
-        <h3>IT Operations & Management</h3>
-        <p>Active Directory, Group Policy, Okta, Microsoft Intune</p>
-
-        <h3>Operating Systems</h3>
-        <p>Linux/Unix, Windows</p>
-
-        <h3>Technical Troubleshooting</h3>
-        <p>System optimization, incident response, debugging</p>
-
-        <h3>Personality Traits & Languages</h3>
-        <p>
-          Deductive Logical Reasoning, Persistence, Ingenuity
-          <br />
-          <strong>Languages Spoken:</strong> English, Slovak
-        </p>
+        <br />
+        <strong>Languages Spoken:</strong> English, Slovak
       </section>
     </div>
   );
