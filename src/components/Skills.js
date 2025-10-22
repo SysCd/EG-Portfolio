@@ -8,6 +8,8 @@ function MySkills() {
           Java, Spring Boot, RESTful APIs, Maven, Object-Oriented Design,
           Software Architecture
         </p>
+        <h3>Frontend Development</h3>
+        <p>React JS, HTML, CSS</p>
         <h3>Development Practices</h3>
         <p>
           Test-Driven Development (TDD), CI/CD (GitHub Actions), Agile
@@ -34,8 +36,8 @@ function MySkills() {
           Root-Cause Analysis, First-Principles Reasoning, Persistence, Logical
           Problem Solving
         </p>
-        <br />
-        <strong>Languages Spoken:</strong> English, Slovak
+        <h3>Languages Spoken</h3>
+        <p>English, Slovak</p>
       </section>
     </div>
   );
