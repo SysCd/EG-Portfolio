@@ -18,12 +18,11 @@ It showcases my background in **backend software engineering** with a focus on *
 
 ## 🛠 Tech Stack
 
-- **Frontend:** React (Create React App), JSX, CSS
+- **Frontend:** React, JSX, CSS
 - **Build Tool:** react-scripts
 - **Deployment:** GitHub Pages (`gh-pages` branch)
 - **Version Control:** Git & GitHub
 - **Hosting:** GitHub Pages
-- **Routing (optional):** React Router DOM (`HashRouter` for Pages support)
 
 ---
 
