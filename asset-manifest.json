@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/ET-Portfolio/static/css/main.a03884db.css",
-    "main.js": "/ET-Portfolio/static/js/main.0f2cc138.js",
-    "static/js/453.acca0757.chunk.js": "/ET-Portfolio/static/js/453.acca0757.chunk.js",
-    "static/media/react.svg": "/ET-Portfolio/static/media/react.8e63d418a6421cc2662e234ac8af7313.svg",
-    "index.html": "/ET-Portfolio/index.html",
-    "static/media/javascript.svg": "/ET-Portfolio/static/media/javascript.5ee3c82fade3a5a9c98dc18702a4f717.svg",
-    "static/media/antdesign.svg": "/ET-Portfolio/static/media/antdesign.8c532d7555c2ed79168b62eb2f8370cd.svg",
-    "static/media/css3.svg": "/ET-Portfolio/static/media/css3.1323e04024709c8a25e60cd9db22db48.svg",
-    "static/media/html5.svg": "/ET-Portfolio/static/media/html5.8e6289ed1eb0b9f348a463db8fa3e38c.svg",
-    "main.a03884db.css.map": "/ET-Portfolio/static/css/main.a03884db.css.map",
-    "main.0f2cc138.js.map": "/ET-Portfolio/static/js/main.0f2cc138.js.map",
-    "453.acca0757.chunk.js.map": "/ET-Portfolio/static/js/453.acca0757.chunk.js.map"
+    "main.css": "/EG-Portfolio/static/css/main.a03884db.css",
+    "main.js": "/EG-Portfolio/static/js/main.f0ca3e31.js",
+    "static/js/453.acca0757.chunk.js": "/EG-Portfolio/static/js/453.acca0757.chunk.js",
+    "static/media/react.svg": "/EG-Portfolio/static/media/react.8e63d418a6421cc2662e234ac8af7313.svg",
+    "index.html": "/EG-Portfolio/index.html",
+    "static/media/javascript.svg": "/EG-Portfolio/static/media/javascript.5ee3c82fade3a5a9c98dc18702a4f717.svg",
+    "static/media/antdesign.svg": "/EG-Portfolio/static/media/antdesign.8c532d7555c2ed79168b62eb2f8370cd.svg",
+    "static/media/css3.svg": "/EG-Portfolio/static/media/css3.1323e04024709c8a25e60cd9db22db48.svg",
+    "static/media/html5.svg": "/EG-Portfolio/static/media/html5.8e6289ed1eb0b9f348a463db8fa3e38c.svg",
+    "main.a03884db.css.map": "/EG-Portfolio/static/css/main.a03884db.css.map",
+    "main.f0ca3e31.js.map": "/EG-Portfolio/static/js/main.f0ca3e31.js.map",
+    "453.acca0757.chunk.js.map": "/EG-Portfolio/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a03884db.css",
-    "static/js/main.0f2cc138.js"
+    "static/js/main.f0ca3e31.js"
   ]
 }
